@@ -1,2 +1,1 @@
-
 logResult({ 'result' : 'error' });
